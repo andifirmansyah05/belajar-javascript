@@ -1,0 +1,8 @@
+let
+didlm scope tidak dapat dicall diluar
+
+var
+didalam scope dapat dicall diluar
+
+var dan let
+dapat dicall didalam scope

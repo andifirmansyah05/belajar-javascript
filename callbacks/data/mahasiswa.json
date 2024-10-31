@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "Andi Firmansyah",
+        "nrp": "5001201010",
+        "email": "andifirmansyah@gmail.com",
+        "jurusan": "Fisika",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "Agus Setiaawan",
+        "nrp": "5001201022",
+        "email": "agussetiawan@gmail.com",
+        "jurusan": "Fisika",
+        "idDosenWali": 2
+    },
+    {
+        "nama": "Nikel Romansyah",
+        "nrp": "5001201042",
+        "email": "nikelromansyah@gmail.com",
+        "jurusan": "Fisika",
+        "idDosenWali": 2
+    }
+]
